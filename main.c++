@@ -1,5 +1,7 @@
-#include "vex.h"
-using namespace vex;
+#ifndef ROBOT_CONFIG_H
+#define ROBOT_CONFIG_H
+
+#include "vex.h"using namespace vex;
 
 // Brain should be defined by default
 brain Brain;
